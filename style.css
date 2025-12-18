@@ -1,0 +1,12 @@
+/* Center card and enhance UI */
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+small {
+    font-size: 0.85rem;
+}
